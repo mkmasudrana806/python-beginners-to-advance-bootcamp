@@ -1,0 +1,6 @@
+SpeechRecongation # take voice command
+pyaudio # convert text to audio
+google-generativeai # google gemmini model
+gTTS # google text to speech
+pipwin # pipwin need for gTTS
+streamlit # is a python package, with help of this application, we can make a python application. we can create a web server easily
