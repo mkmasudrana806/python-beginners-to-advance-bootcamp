@@ -1,0 +1,6 @@
+Hello Masud Rana
+Congratulations you have successfully written in a file
+ this is written using appended mode
+masud rana
+shihab rana
+rayhan kobir
