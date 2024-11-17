@@ -1,0 +1,2 @@
+print("this code is run by command prompt")
+print("""Interesting things is that, python can run any type of files using python interpreter. .py extension is not required. when we IDE and .py extension, it gives us indentation automatically. but in .txt file we can not get indentation. if you are a pro programmer, you can write inside .txt file as you know indentation well. now i will run this txt file using python interpreter. open command prompt and write: python python_program_and_execute.txt""")
